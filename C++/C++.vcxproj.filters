@@ -33,5 +33,8 @@
     <ClCompile Include="sty06.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sty07.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
