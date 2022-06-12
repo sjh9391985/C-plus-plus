@@ -42,5 +42,8 @@
     <ClCompile Include="sty09.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sty10.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
